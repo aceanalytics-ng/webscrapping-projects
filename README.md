@@ -4,5 +4,5 @@ This project was embarked upon to put to practice the knowledge and skills I gai
 In this project, I will be scraping **Covid-19** data off of **Wikipedia's HTML Page** using R's `rvest` library and conducting pretty basic exploratory data analysis (EDA).<p>
 This project has been divided into two sections:<p>
 1. Data Wrangling (Webscrappping, Data Cleaning, and Data Export)
-2. Exploratory Data Analysis
+2. Exploratory Data Analysis <p>
 It is worthy of note, however, that the main focus of this project is on ETL (Extract, Tranform and Load) processes, not data analysis. To complete this project, I will carry out 5 predetermined steps/tasks.
