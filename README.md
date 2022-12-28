@@ -6,4 +6,4 @@ This project has been divided into two sections:<p>
 1. Data Wrangling (Webscrappping, Data Cleaning, and Data Export)
 2. Exploratory Data Analysis 
 <p>It is worthy of note, however, that the main focus of this project is on data wrangling, not data analysis. To complete this project, I will carry out 5 predetermined steps/tasks.
-<p><b>The notebook was created using Colaboratory(on google collab). For a full preview of the notebook, there's a link to the open the notebook on Colab</b></p>
+<p><b>The notebook was created using Colaboratory(on google colab). For a full preview of the notebook, there's a link to the open the notebook on Colab</b></p>
